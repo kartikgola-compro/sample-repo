@@ -1,2 +1,2 @@
 # sample-repo
-2
+Changed from github
